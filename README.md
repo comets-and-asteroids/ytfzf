@@ -9,6 +9,7 @@ This project is no longer actively maintained, it should still work for the fore
 <p>Lolipops better</p>
 <t>
     <br />
+<i>...</i>
     <br />
 	<a href="https://github.com/pystardust/ytfzf/stargazers"><img src="https://img.shields.io/github/stars/pystardust/ytfzf?color=orange&logo=github&style=flat-square"></a>
 	<a href="https://github.com/pystardust/ytfzf/graphs/contributors"><img src="https://img.shields.io/github/contributors/pystardust/ytfzf?style=flat-square"></a>
