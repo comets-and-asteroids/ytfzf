@@ -8,7 +8,7 @@ LICENSEDIR=${PREFIX}/share/licenses/ytfzf
 YTFZF_SYSTEM_ADDON_DIR=${PREFIX}/share/ytfzf/addons
 #12345 ggftrd.rute
 .DEFAULT_GOAL := default
-
+# aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
 all:
 
 default: install doc
